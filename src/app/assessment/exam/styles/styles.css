@@ -1,0 +1,27 @@
+.custom-radio {
+    position: relative;
+  }
+  
+  .custom-radio-circle {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: 2px solid #ececec; /* Orange color */
+    background-color:#ececec ;
+    text-align: center;
+    line-height: 20px; /* Align text vertically */
+    
+    color: #2d2c2c; /* Orange text color */
+    cursor: pointer;
+  }
+  
+  .custom-radio input:checked + .custom-radio-circle {
+    background-color: #f97316; /* Filled circle when checked */
+    color: white; /* White text when checked */
+  }
+  
+  .custom-radio-circle:hover {
+    border-color: #b78a69; /* Border color on hover */
+  }
+  

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"]
+  },
+  {
+    "id": 2,
+    "question": "What is 2 + 2?",
+    "options": ["3", "4", "5", "6"]
+  },
+  {
+    "id": 3,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"]
+  },
+  {
+    "id": 4,
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"]
+  },
+  {
+    "id": 5,
+    "question": "What is the chemical symbol for water?",
+    "options": ["O2", "H2O", "CO2", "H2"]
+  },
+  {
+    "id": 6,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"]
+  },
+  {
+    "id": 7,
+    "question": "What is the capital of Japan?",
+    "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"]
+  },
+  {
+    "id": 8,
+    "question": "How many continents are there?",
+    "options": ["5", "6", "7", "8"]
+  },
+  {
+    "id": 9,
+    "question": "Which is the smallest country in the world?",
+    "options": ["Monaco", "Malta", "Vatican City", "Nauru"]
+  },
+  {
+    "id": 10,
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"]
+  },
+  {
+    "id": 11,
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"]
+  },
+  {
+    "id": 12,
+    "question": "What is the main ingredient in guacamole?",
+    "options": ["Tomato", "Avocado", "Pepper", "Onion"]
+  },
+  {
+    "id": 13,
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Great White Shark", "Giraffe"]
+  },
+  {
+    "id": 14,
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"]
+  },
+  {
+    "id": 15,
+    "question": "What is the freezing point of water?",
+    "options": ["0°C", "32°F", "100°C", "212°F"]
+  },
+  {
+    "id": 16,
+    "question": "What is the primary language spoken in Brazil?",
+    "options": ["Spanish", "Portuguese", "French", "English"]
+  },
+  {
+    "id": 17,
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctic Desert"]
+  },
+  {
+    "id": 18,
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"]
+  },
+  {
+    "id": 19,
+    "question": "What is the currency of the United Kingdom?",
+    "options": ["Dollar", "Euro", "Pound", "Yen"]
+  },
+  {
+    "id": 20,
+    "question": "In which year did the Titanic sink?",
+    "options": ["1905", "1912", "1918", "1923"]
+  }
+]
